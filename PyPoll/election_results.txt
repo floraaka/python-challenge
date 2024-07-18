@@ -1,0 +1,9 @@
+Election Results
+-------------------------
+Total Votes: 36687
+-------------------------
+Charles Casper Stockham: 53.760% (19723)
+Diana DeGette: 46.240% (16964)
+-------------------------
+Winner: Charles Casper Stockham
+-------------------------
