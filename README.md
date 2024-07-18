@@ -10,4 +10,4 @@ The PyBank project involves analyzing financial records from a CSV file to gener
 ### Overview
 The PyPoll project involves analyzing election data from a CSV file to generate an election results report. The dataset contains three columns: "Voter ID", "County", and "Candidate". The analysis will calculate total votes, a list of candidates who received votes, the percentage of votes each candidate won, the total number of votes each candidate won, and the winner of the election based on popular vote.
 
-![Screenshot][(https://github.com/floraaka/python-challenge/blob/main/PyPoll/Screnshot2.png](https://github.com/floraaka/python-challenge/blob/main/PyPoll/Vote_counting.png669763699d2f856545.jpg))
+![Screenshot](https://github.com/floraaka/python-challenge/blob/main/PyPoll/Vote_counting.png669763699d2f856545.jpg)
