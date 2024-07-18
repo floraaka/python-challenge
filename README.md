@@ -3,6 +3,7 @@
 ## PyBank
 ### Overview
 The PyBank project involves analyzing financial records from a CSV file to generate a financial analysis report. The dataset contains two columns: "Date" and "Profit/Losses". The analysis will calculate various financial metrics such as total months, total profit/loss, average change, greatest increase, and greatest decrease in profits.
+![Screenshot](https://github.com/floraaka/python-challenge/blob/main/PyBank/revenue-per-lead.png66976369a6a1056545.jpg)
 
 ![Screenshot](https://github.com/floraaka/python-challenge/blob/main/PyBank/Screnshot1.png)
 
